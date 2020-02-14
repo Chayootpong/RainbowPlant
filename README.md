@@ -28,7 +28,7 @@ Install .APK file on smartphone.
 1. Game File (Original Version) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSYOx8XMIIrE8qfV?e=JMqnGl">[**DOWNLOAD APK FILE**]</a> 
 2. Game File (Remastered Version) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkHm_QP6ybDtiPmZ0?e=NPVIfh">[**DOWNLOAD APK FILE**]</a> 
 
-*Note: Support only Android 4.0 smartphone*
+*Note: Support on Android 4.0 or higher smartphone.*
 # Team Member(s)
 **Origin Team**
 - Chayootpong Promlee
