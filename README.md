@@ -1,5 +1,5 @@
 # Rainbow Plant
-![](https://i.imgur.com/NkhTX5H.jpg)
+![](https://i.imgur.com/aLxEz7Q.jpg)
 # Description
 **Rainbow Plant** requires players to drag and store the vegetables in the plot to meet the number of times required But in addition to dragging the vegetables, players can also grow vegetables to connect the line to collect vegetables as well, with a limited number of seeds Players will have to manage the amount of traction and planting as efficiently as possible.
 
