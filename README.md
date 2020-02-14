@@ -15,8 +15,10 @@ Rainbow Plant is a single player game that is played on a mobile phone (Single P
 ![](https://i.imgur.com/BCCxyNL.png)
 ![](https://i.imgur.com/hAfXPly.jpg)
 # Rewards
-- Honorable Mention in National Software Contest (NSC 2019), Entertainment type.
-- Qualified and join SCB Foundation (Torkla) Year 7.
+**Origin Version**
+- Qualified and join SCB Foundation (Torkla) Year 3.
+**Remastered Version**
+- Regional Qualified in National Software Contest (NSC 2020), Entertainment type.
 # Development Tools
 - Unity Engine (Android Platform)
 - Visual Studio (CSharp)
@@ -27,6 +29,11 @@ Install .APK file on smartphone.
 
 *Note: Support only Android 4.0 smartphone*
 # Team Member(s)
+**Origin Team**
 - Chayootpong Promlee
 - Niti Thammarerkrit
 - Pimpaka Lertjittikun
+**New Team**
+- Chayootpong Promlee
+- Sarutchun Botaen
+- Sirin Ratreungampai
