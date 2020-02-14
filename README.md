@@ -38,4 +38,4 @@ Install .APK file on smartphone.
 **New Team**
 - Chayootpong Promlee
 - Sarutchun Botaen
-- Sirin Ratreungampai
+- Sirin Rattanaruangamphai
