@@ -7,13 +7,13 @@
 Rainbow Plant is a single player game that is played on a mobile phone (Single Player). Rainbow Plant has different gameplay and features, because in the same genre, players only have to drag it. But in this game, players must also grow to create a connection point in the drag, which will increase the challenge and conceptual style of solving the puzzle.
 
 # Screenshots
-![](https://i.imgur.com/7nf6OSe.jpg)
-![](https://i.imgur.com/JAIo5GS.jpg)
-![](https://i.imgur.com/gT2VlfO.jpg)
-![](https://i.imgur.com/VzpJjEH.jpg)
-![](https://i.imgur.com/Z16bmvT.png)
-![](https://i.imgur.com/BCCxyNL.png)
-![](https://i.imgur.com/hAfXPly.jpg)
+![](https://i.imgur.com/ciexlCp.jpg)
+![](https://i.imgur.com/4eOD6sJ.jpg)
+![](https://i.imgur.com/SybxEs0.jpg)
+![](https://i.imgur.com/gd6gDIA.jpg)
+![](https://i.imgur.com/AUz17DF.png)
+![](https://i.imgur.com/SybxEs0.jpg)
+![](https://i.imgur.com/8Ys90mJ.jpg)
 # Rewards
 **Origin Version**
 - Qualified and join SCB Foundation (Torkla) Year 3.
