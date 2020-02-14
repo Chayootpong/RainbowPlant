@@ -1,5 +1,5 @@
 # Rainbow Plant
-
+![](https://i.imgur.com/NkhTX5H.jpg)
 # Description
 **Rainbow Plant** requires players to drag and store the vegetables in the plot to meet the number of times required But in addition to dragging the vegetables, players can also grow vegetables to connect the line to collect vegetables as well, with a limited number of seeds Players will have to manage the amount of traction and planting as efficiently as possible.
 
@@ -25,7 +25,8 @@ Rainbow Plant is a single player game that is played on a mobile phone (Single P
 # Setup
 Install .APK file on smartphone.
 
-1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkHm_QP6ybDtiPmZ0?e=uF86Ah">[**DOWNLOAD APK FILE**]</a> 
+1. Game File (Origin Version) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSYOx8XMIIrE8qfV?e=JMqnGl">[**DOWNLOAD APK FILE**]</a> 
+2. Game File (Remastered Version) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkHm_QP6ybDtiPmZ0?e=NPVIfh">[**DOWNLOAD APK FILE**]</a> 
 
 *Note: Support only Android 4.0 smartphone*
 # Team Member(s)
