@@ -14,7 +14,7 @@ Rainbow Plant is a single player game that is played on a mobile phone (Single P
 ![](https://i.imgur.com/EE9vthJ.jpg)
 ![](https://i.imgur.com/8Ys90mJ.jpg)
 # Rewards
-**Origin Version**
+**Original Version**
 - Qualified and join SCB Foundation (Torkla) Year 3.
 
 **Remastered Version**
@@ -25,7 +25,7 @@ Rainbow Plant is a single player game that is played on a mobile phone (Single P
 # Setup
 Install .APK file on smartphone.
 
-1. Game File (Origin Version) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSYOx8XMIIrE8qfV?e=JMqnGl">[**DOWNLOAD APK FILE**]</a> 
+1. Game File (Original Version) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSYOx8XMIIrE8qfV?e=JMqnGl">[**DOWNLOAD APK FILE**]</a> 
 2. Game File (Remastered Version) <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkHm_QP6ybDtiPmZ0?e=NPVIfh">[**DOWNLOAD APK FILE**]</a> 
 
 *Note: Support only Android 4.0 smartphone*
