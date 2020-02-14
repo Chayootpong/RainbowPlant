@@ -30,7 +30,7 @@ Install .APK file on smartphone.
 
 *Note: Support on Android 4.0 or higher smartphone.*
 # Team Member(s)
-**Origin Team**
+**Old Team**
 - Chayootpong Promlee
 - Niti Thammarerkrit
 - Pimpaka Lertjittikun
