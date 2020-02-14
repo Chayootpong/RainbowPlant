@@ -9,10 +9,9 @@ Rainbow Plant is a single player game that is played on a mobile phone (Single P
 # Screenshots
 ![](https://i.imgur.com/ciexlCp.jpg)
 ![](https://i.imgur.com/4eOD6sJ.jpg)
-![](https://i.imgur.com/SybxEs0.jpg)
 ![](https://i.imgur.com/gd6gDIA.jpg)
 ![](https://i.imgur.com/AUz17DF.png)
-![](https://i.imgur.com/SybxEs0.jpg)
+![](https://i.imgur.com/EE9vthJ.jpg)
 ![](https://i.imgur.com/8Ys90mJ.jpg)
 # Rewards
 **Origin Version**
